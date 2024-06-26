@@ -1,14 +1,12 @@
 # Transitor
 
-Transitor is a Java-based routing engine for Maastricht. It accepts a start and end location in the form of a postocde and returns the fastest route between them. The application accepts walk, cycle, and bus as modes of transport.
+Transitor is a Java-based routing engine for Maastricht, the Netherlands. It accepts a start and end location in the form of a postocde and returns the fastest route between them. The application accepts walk, cycle, and bus as modes of transport.
 
 ## Usage
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Run the project using your preferred IDE by running the `Main` class.
+Transitor was created with Maastricht University project specifications in mind, therefore it can not be run outside of the conditions of the project (due to the need for a running MySQL server with modified GTFS data for the Netherlands). 
 
-Note: You need to have Java installed on your machine run the application.
+Feel free to use the code as a reference for your own projects and learn from it!
 
 ## Authors (in alphabetical order)
 
