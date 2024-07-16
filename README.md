@@ -1,6 +1,6 @@
 # Transitor
 
-Transitor is a Java-based routing engine for Maastricht, the Netherlands. It accepts a start and end location in the form of a postocde and returns the fastest route between them. The application accepts walk, cycle, and bus as modes of transport.
+Transitor is a Java-based routing engine for Maastricht, the Netherlands. It accepts a start and end location in the form of a postal code and returns the fastest route between them. The application accepts walk, cycle, and bus as modes of transport.
 
 ## Usage
 
